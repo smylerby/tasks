@@ -9,12 +9,12 @@ Codewars:
     // 3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
     // 4. http://www.codewars.com/kata/transportation-on-vacation
     // 5. http://www.codewars.com/kata/get-the-middle-character
-     6. http://www.codewars.com/kata/partition-on
+    5th 6. http://www.codewars.com/kata/partition-on
     // 7. http://www.codewars.com/kata/word-count
-     8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
-     9. http://www.codewars.com/kata/implement-a-filter-function
-     10. http://www.codewars.com/kata/prefill-an-array
-     11. http://www.codewars.com/kata/cross-product-of-vectors
+    // 8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
+    ! 9. http://www.codewars.com/kata/implement-a-filter-function
+    5th 10. http://www.codewars.com/kata/prefill-an-array
+    // 11. http://www.codewars.com/kata/cross-product-of-vectors
      12. http://www.codewars.com/kata/sequence-generator-1
      13. https://www.codewars.com/kata/base-conversion/
      14. http://www.codewars.com/kata/closures-and-scopes
