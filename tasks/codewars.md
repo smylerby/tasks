@@ -9,33 +9,34 @@ Codewars:
     // 3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
     // 4. http://www.codewars.com/kata/transportation-on-vacation
     // 5. http://www.codewars.com/kata/get-the-middle-character
-    5th 6. http://www.codewars.com/kata/partition-on
+    // 11.http://www.codewars.com/kata/cross-product-of-vectors
     // 7. http://www.codewars.com/kata/word-count
     // 8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
-    ! 9. http://www.codewars.com/kata/implement-a-filter-function
+    8th 9. http://www.codewars.com/kata/implement-a-filter-function
+    8th 15. http://www.codewars.com/kata/a-function-within-a-function
+    7th 25. http://www.codewars.com/kata/santaclausable-interface
+    7th 31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
+    7th 32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+    7th 12. http://www.codewars.com/kata/sequence-generator-1
+    6th 30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
+    6th 14. http://www.codewars.com/kata/closures-and-scopes
+    6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
+    6th 21. http://www.codewars.com/kata/function-composition-1
+    6th 22. http://www.codewars.com/kata/stringing-me-along
+    6th 26. http://www.codewars.com/kata/new-with-apply
+    6th 27. http://www.codewars.com/kata/extract-nested-object-reference
+    6th 28. http://www.codewars.com/kata/array-helpers
+    5th 6. http://www.codewars.com/kata/partition-on
+    5th 23. http://www.codewars.com/kata/i-spy
+    5th 24. http://www.codewars.com/kata/calculating-with-functions
     5th 10. http://www.codewars.com/kata/prefill-an-array
-    // 11. http://www.codewars.com/kata/cross-product-of-vectors
-     12. http://www.codewars.com/kata/sequence-generator-1
-     13. https://www.codewars.com/kata/base-conversion/
-     14. http://www.codewars.com/kata/closures-and-scopes
-     15. http://www.codewars.com/kata/a-function-within-a-function
-     16. http://www.codewars.com/kata/can-you-keep-a-secret
-     17. http://www.codewars.com/kata/using-closures-to-share-class-state
-     18. http://www.codewars.com/kata/a-chain-adding-function
-     19. http://www.codewars.com/kata/function-cache
-     20. http://www.codewars.com/kata/function-composition
-     21. http://www.codewars.com/kata/function-composition-1
-     22. http://www.codewars.com/kata/stringing-me-along
-     23. http://www.codewars.com/kata/i-spy
-     24. http://www.codewars.com/kata/calculating-with-functions
-     25. http://www.codewars.com/kata/santaclausable-interface
-     26. http://www.codewars.com/kata/new-with-apply
-     27. http://www.codewars.com/kata/extract-nested-object-reference
-     28. http://www.codewars.com/kata/array-helpers
-     29. http://www.codewars.com/kata/replicate-new
-     30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
-     31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
-     32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+    5th 17. http://www.codewars.com/kata/using-closures-to-share-class-state
+    5th 18. http://www.codewars.com/kata/a-chain-adding-function
+    5th 19. http://www.codewars.com/kata/function-cache
+    5th 20. http://www.codewars.com/kata/function-composition
+    5th 29. http://www.codewars.com/kata/replicate-new
+    4th 13. https://www.codewars.com/kata/base-conversion/
+
      
   - __Optional__
      - http://www.codewars.com/kata/lazy-evaluation
