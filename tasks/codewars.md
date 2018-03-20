@@ -14,11 +14,12 @@ Codewars:
     // 8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
     // 12. http://www.codewars.com/kata/sequence-generator-1
     // 15. http://www.codewars.com/kata/a-function-within-a-function
+    // 6th 30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
     8th 9. http://www.codewars.com/kata/implement-a-filter-function
     7th 25. http://www.codewars.com/kata/santaclausable-interface
     7th 31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
     7th 32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
-    6th 30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
+    
     6th 14. http://www.codewars.com/kata/closures-and-scopes
     6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
     6th 21. http://www.codewars.com/kata/function-composition-1
