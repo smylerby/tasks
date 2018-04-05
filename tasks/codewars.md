@@ -22,14 +22,15 @@ Codewars:
     // 5th 10. http://www.codewars.com/kata/prefill-an-array
     // 6th 21. http://www.codewars.com/kata/function-composition-1
     // 6th 22. http://www.codewars.com/kata/stringing-me-along
-    // 5th 20. http://www.codewars.com/kata/function-composition
+    // 6th 20. http://www.codewars.com/kata/function-composition
+    // 6th 28. http://www.codewars.com/kata/array-helpers
     
     8th 9. http://www.codewars.com/kata/implement-a-filter-function
     6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
     
     6th 26. http://www.codewars.com/kata/new-with-apply
     6th 27. http://www.codewars.com/kata/extract-nested-object-reference
-    6th 28. http://www.codewars.com/kata/array-helpers
+    
     5th 6. http://www.codewars.com/kata/partition-on
     5th 23. http://www.codewars.com/kata/i-spy
     5th 24. http://www.codewars.com/kata/calculating-with-functions
