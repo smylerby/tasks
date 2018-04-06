@@ -28,9 +28,7 @@ Codewars:
     
     8th 9. http://www.codewars.com/kata/implement-a-filter-function
     6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
-    
-    6th 26. http://www.codewars.com/kata/new-with-apply
-   
+    6th 26. http://www.codewars.com/kata/new-with-apply   
     
     5th 6. http://www.codewars.com/kata/partition-on
     5th 23. http://www.codewars.com/kata/i-spy
