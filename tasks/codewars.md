@@ -14,6 +14,7 @@ Codewars:
     // 8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
     // 12. http://www.codewars.com/kata/sequence-generator-1
     // 15. http://www.codewars.com/kata/a-function-within-a-function
+    // 8th 9. http://www.codewars.com/kata/implement-a-filter-function
     // 6th 30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
     // 6th 14. http://www.codewars.com/kata/closures-and-scopes
     // 7th 25. http://www.codewars.com/kata/santaclausable-interface
@@ -25,11 +26,9 @@ Codewars:
     // 6th 20. http://www.codewars.com/kata/function-composition
     // 6th 28. http://www.codewars.com/kata/array-helpers
     // 6th 27. http://www.codewars.com/kata/extract-nested-object-reference
+    // 6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
     
-    8th 9. http://www.codewars.com/kata/implement-a-filter-function
-    6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
     6th 26. http://www.codewars.com/kata/new-with-apply   
-    
     5th 6. http://www.codewars.com/kata/partition-on
     5th 23. http://www.codewars.com/kata/i-spy
     5th 24. http://www.codewars.com/kata/calculating-with-functions
