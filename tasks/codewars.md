@@ -26,14 +26,15 @@ Codewars:
     // 6th 20. http://www.codewars.com/kata/function-composition
     // 6th 28. http://www.codewars.com/kata/array-helpers
     // 6th 27. http://www.codewars.com/kata/extract-nested-object-reference
+    // 6th 26. http://www.codewars.com/kata/new-with-apply   
     // 6th 16. http://www.codewars.com/kata/can-you-keep-a-secret
     // 5th 18. http://www.codewars.com/kata/a-chain-adding-function
     // 5th 6. http://www.codewars.com/kata/partition-on
     // 5th 23. http://www.codewars.com/kata/i-spy
+    // 5th 24. http://www.codewars.com/kata/calculating-with-functions
     
-    6th 26. http://www.codewars.com/kata/new-with-apply   
     
-    5th 24. http://www.codewars.com/kata/calculating-with-functions
+    
     5th 17. http://www.codewars.com/kata/using-closures-to-share-class-state
     5th 19. http://www.codewars.com/kata/function-cache
     5th 29. http://www.codewars.com/kata/replicate-new
